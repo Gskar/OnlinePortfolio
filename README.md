@@ -1,1 +1,1 @@
-->  https://gskar.github.io/OnlinePortfolio/#!
+->  https://gskar.github.io/OnlinePortfolio/#
